@@ -1,0 +1,22 @@
+#a{
+    text-align: center;
+    margin-left: 25%;
+    width:50%;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+  
+}
+body{
+  background-color:black;
+  color:white;
+}
+#b{
+  border:5px solid white;
+  width:100%;
+}
+
+  
+#c{
+  text-transform: uppercase;
+  font-size: 3rem;
+}
